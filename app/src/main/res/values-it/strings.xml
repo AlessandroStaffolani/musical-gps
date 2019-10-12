@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Musical Gps</string>
+    <string name="action_settings">Impostazioni</string>
+    <string name="title_activity_chose_location">Scegli un luogo</string>
+    <string name="choose_location_text_edit">Scegli un luogo</string>
+    <string name="new_music">Nuova canzone</string>
+    <string name="title_activity_maps_location">Nuova canzone</string>
+    <string name="music_title">Titolo canzone</string>
+    <string name="song_path">File canzone</string>
+    <string name="default_song">Usa come canzone predefinita</string>
+    <string name="add_also_location">Aggiungi anche una posizione da sotto</string>
+    <string name="add_song">Aggiungi canzone</string>
+    <string name="choose_file">Scegli un file</string>
+    <string name="create_song_item_from_map_location_activity">Avanti</string>
+    <string name="select_location">Seleziona prima una posizione</string>
+    <string name="required_fields">Titolo e file sono richiesti</string>
+    <string name="your_songs">Le tue canzoni</string>
+    <string name="no_songs">Nessuna canzone, crea una nuova canzone</string>
+    <string name="latitude">Latitudine:</string>
+    <string name="location">Posizione</string>
+    <string name="longitude">Longitudine:</string>
+    <string name="start">Avvia</string>
+    <string name="stop">Ferma</string>
+    <string name="pause">Pausa</string>
+</resources>
